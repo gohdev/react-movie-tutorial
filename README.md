@@ -12,6 +12,10 @@ GitHub: https://github.com/techwithtim/Learn-React-In-One-Project
 
 - In JSX, rather than having `class`, which is a reserved keyword in JavaScript, we use `className`.
 
+- State is something where once it is updated, the component will change and re-render itself to show the new state.
+
+- When the state change occurs, it rerun the entire code in the component, the state will stay the same, the entire component is re-rendered and returned a new version of the UI.
+
 ## Setup
 
 ```shell
