@@ -29,3 +29,13 @@ npm run dev
 ```
 
 http://localhost:5173/
+
+## Router
+
+```shell
+npm install react-router-dom
+```
+
+- Add BrowserRouter in `main.jsx`
+
+- Add Routes, Route in `App.jsx`
